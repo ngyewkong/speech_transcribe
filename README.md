@@ -6,5 +6,5 @@ Web User Interface done using Python's Streamlit Library
 
 - run webui.py through using streamlit run webui.py command to launch the interface
 
-- Upload a .wav audio file or Record an audio file on the file.
+- Upload a .wav audio file or Record an audio file on the fly.
 
